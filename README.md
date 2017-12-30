@@ -9,7 +9,7 @@ The mLearningAgents.py file implements QLearningAgent for Pacman.
 
   python pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
   
--p QLearnAgent tells pacman.py code to let Pacman take controlled by an object that is an instance of a class QLearnAgent.
--x 2000 will train the learner for 2000 episodes (you can use any number)
--n 2010 will run it for 10 non-training episodes
--l smallGrid runs the very reduced game
+- -p QLearnAgent tells pacman.py code to let Pacman take controlled by an object that is an instance of a class QLearnAgent.
+- -x 2000 will train the learner for 2000 episodes (you can use any number)
+- -n 2010 will run it for 10 non-training episodes
+- -l smallGrid runs the very reduced game
