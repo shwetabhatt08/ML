@@ -19,10 +19,6 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-# The agent here was written by Simon Parsons, based on the code in
-# pacmanAgents.py
-# learningAgents.py
-
 from pacman import Directions
 from game import Agent
 from game import Actions
